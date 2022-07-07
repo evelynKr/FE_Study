@@ -44,10 +44,6 @@
 
 <br />
 
-<!--
-
--->
-
 ## ✨ PR 방식
 
 ##### <u>_깃허브_</u>
@@ -81,6 +77,14 @@ $ git push origin '브랜치명'
 ##### <u>_깃허브_</u>
 
 #### 6. `New Pull request` or `Compare&Pull request` 버튼을 눌러, PR 작성하기
+
+##### <u>_터미널_</u>
+
+#### 7. 1번부터 6번까지 셋팅을 마친 후부터는 꼭 `pull`을 먼저 하고 커밋, 푸쉬를 해주세요.
+
+```
+$ git pull origin master
+```
 
 <br />
 
