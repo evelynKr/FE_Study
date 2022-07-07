@@ -6,7 +6,8 @@
 
 ## 🙌 맴버
 
-| <img src="https://user-images.githubusercontent.com/108116736/177779242-4ab7df7c-23b8-4558-b587-6151e0bb75ab.jpeg" width="200" height="200"/> | ![이미지](링크) | ![이미지](링크) | ![이미지](링크) | ![knh](https://user-images.githubusercontent.com/103403660/177731144-71025f39-3242-4761-8076-d96fc53d1587.png) |
+| <img src="https://user-images.githubusercontent.com/108116736/177779242-4ab7df7c-23b8-4558-b587-6151e0bb75ab.jpeg" width="200" height="200"/> | ![이미지](링크) | ![이미지](링크) | ![이미지](링크) | <img src="https://user-images.githubusercontent.com/103403660/177731144-71025f39-3242-4761-8076-d96fc53d1587.png)" width="200" height="200"/>
+ |
 | :-------------: | :-------------: | :-------------: | :-------------: | :------------------------------------------------------------------------------------------------------------: |
 |    [형준](https://github.com/HyeongJun030)     |    [다빈]()     |    [승현]()     |    [형규]()     |                                      [나현](https://github.com/evelynKr)                                       |
 
