@@ -6,9 +6,9 @@
 
 ## 🙌 맴버
 
-| <img src="https://user-images.githubusercontent.com/108116736/177786224-20fd433e-c005-4ada-b98b-182bae90324e.jpg" width="100" height="100"/> | ![이미지](링크) | ![이미지](링크) | ![이미지](링크) | <img src="https://user-images.githubusercontent.com/103403660/177731144-71025f39-3242-4761-8076-d96fc53d1587.png" width="100" height="100"/> |
+| <img src="https://user-images.githubusercontent.com/108116736/177786224-20fd433e-c005-4ada-b98b-182bae90324e.jpg" width="100" height="100"/> | ![이미지](링크) | <img src="https://user-images.githubusercontent.com/95557845/177902847-ee00cec2-f0c0-4f9d-a330-18e75ac7809d.jpg" width="100" height="100"/> | ![이미지](링크) | <img src="https://user-images.githubusercontent.com/103403660/177731144-71025f39-3242-4761-8076-d96fc53d1587.png" width="100" height="100"/> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------: | :-------------: | :------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                    [형준](https://github.com/HyeongJun030)                                                    |    [다빈]()     |    [승현]()     |    [형규]()     |                                                     [나현](https://github.com/evelynKr)                                                      |
+|                                                    [형준](https://github.com/HyeongJun030)                                                    |    [다빈]()     |    [승현](https://github.com/seunghyeonheo)     |    [형규]()     |                                                     [나현](https://github.com/evelynKr)                                                      |
 
 <!--
 이미지
