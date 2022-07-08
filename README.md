@@ -92,4 +92,4 @@ $ git pull origin master
 
 > []()
 > 💡 [깃특강](https://hphk.notion.site/AI-15-72a10c56cefa47dbac77616e176726f5?v=f75584d157644dbbbeb1d1ea9d9c5536)
-> : 모르는 내용은 깃 허브 특강때 들었던 내용 참고해서 진행했습니다.
+> : 모르는 내용은 깃 허브 특강때 들었던 내용 참고해서 진행했습니다..
