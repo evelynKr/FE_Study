@@ -12,7 +12,6 @@
             height: 200px;
         }
     </style>
-
 </head>
 
 <body>
@@ -63,7 +62,8 @@
         // clickButton 5번 호출, 인터벌 1번, 2번, 3번, 4번, 5번(만 intervalId 저장)
         // 그 다음에 버튼을 클릭하면 5번만 취소
         let clickable = true;
-        let score = 0;
+        let computer = 0;
+        let me = 0;
         const clickButton = () => {
             if (clickable) {
                 clearInterval(intervalId);
@@ -79,30 +79,36 @@
                 const myScore = scoreTable[myChice];
                 const computerScore = scoreTable[computerChoice];
                 const diff = myScore - computerScore;
+
                 let message;
                 // diff === '고양이' || diff === '사자' || diff === '강아지' || diff === '거북이'
                 // ['고양이','사자','강아지','거북이'].includes(diff)
                 // 2, -1은 승리조건이고, -2, 1은 패배조건, 점수표 참고
                 if ([2, -1].includes(diff)) {
-                    score += 1;
+                    me += 1;
                     message = '승리';
                 } else if ([-2, 1].includes(diff)) {
-                    score -= 1;
+                    computer += 1;
                     message = '패배';
                 } else {
                     message = '무승부';
                 }
-                $score.textContent = `${message} 총 : ${score}점`;
-                setTimeout(() => {
-                    clickable = true;
-                    intervalId = setInterval(changeComputerHand, 50);
-                }, 1000);
+                if (me >= 3) {
+                    $score.textContent = `나의 승리 ${me}:${computer}`;
+                } else if (computer >= 3) {
+                    $score.textContent = `컴퓨터의 승리 ${me}:${computer}`;
+                } else {
+                    $score.textContent = `${message} ${me}:${computer}`;
+                    setTimeout(() => {
+                        clickable = true;
+                        intervalId = setInterval(changeComputerHand, 50);
+                    }, 1000);
+                }
             }
         };
         $scissors.addEventListener('click', clickButton);
         $rock.addEventListener('click', clickButton);
         $paper.addEventListener('click', clickButton);
-
     </script>
 </body>
 
